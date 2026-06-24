@@ -16,6 +16,10 @@ Karadeniz Teknik Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Dü
 * **Kriptografi & Siber Güvenlik:** Blok şifreleme modları (CBC, CFB vb.), veri güvenliği optimizasyonları ve hibrit şifreleme algoritmaları.
 * **Gömülü ve Donanım Sistemleri:** Mantıksal devre tasarımları ve donanım tanım dilleriyle sistem simülasyonları.
 * **Sosyal İnovasyon:** Gıda israfını önlemeye yönelik dijital kaynak yönetimi konseptleri.
-
+### 📊 GitHub İstatistiklerim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedEyyubGumus&show_icons=true&theme=radical" alt="Eyyüb'ün GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedEyyubGumus&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
+</p>
 ### 📫 İletişim
 [LinkedIn Profilim](https://www.linkedin.com/in/muhammedeyyubgumus) | [E-posta Gönder](mailto:muhammedeyyubgumus@gmail.com)
