@@ -21,5 +21,7 @@ Karadeniz Teknik Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Dü
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammedEyyubGumus&show_icons=true&theme=radical" alt="Eyyüb'ün GitHub İstatistikleri" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedEyyubGumus&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
 </p>
+
+
 ### 📫 İletişim
 [LinkedIn Profilim](https://www.linkedin.com/in/muhammedeyyubgumus) | [E-posta Gönder](mailto:muhammedeyyubgumus@gmail.com)
